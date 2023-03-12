@@ -1,3 +1,6 @@
+### WHat is Zeek?
+Zeek is an open-source network traffic analyzer, which is widely used by organizations as a network security monitor (NSM), as well as a network intrusion detection system.
+
 # Installing Zeek
 
 ## Ubuntu 20.04 LTS
