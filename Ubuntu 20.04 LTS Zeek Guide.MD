@@ -1,4 +1,5 @@
 Simply Enter the following the Ubuntu Terminal
+# Installing Dependencies
 ```
 sudo su
 ```
@@ -14,6 +15,7 @@ sudo apt install python3-git python3-semantic-version
 ```
 sudo apt install curl
 ```
+# Installing ZEEK LTS
 ```
 sudo apt update
 ```
