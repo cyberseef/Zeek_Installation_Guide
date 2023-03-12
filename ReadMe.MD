@@ -12,4 +12,6 @@ For Confirming Installation type the following the terminal after completing the
 
 ls /opt/
 
-You will find a directory named "zeek"
+You will find a directory named "zeek". Further confirmation can be obtained if the files exist in it by typing the following in your respective Terminal.
+
+ls /opt/zeek/
