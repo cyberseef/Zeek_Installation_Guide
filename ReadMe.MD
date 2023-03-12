@@ -9,4 +9,7 @@ Go to the following [Guide for Ubuntu 22.04LTS](https://github.com/cyberseef/Zee
 
 
 For Confirming Installation type the following the terminal after completing the steps respective of your OS.
+
 ls /opt/
+
+You will find a directory named "zeek"
