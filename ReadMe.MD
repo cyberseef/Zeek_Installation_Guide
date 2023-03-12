@@ -1,4 +1,4 @@
-### WHat is Zeek?
+### What is Zeek?
 Zeek is an open-source network traffic analyzer, which is widely used by organizations as a network security monitor (NSM), as well as a network intrusion detection system.
 
 # Installing Zeek
