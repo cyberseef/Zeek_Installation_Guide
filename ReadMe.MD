@@ -22,4 +22,4 @@ ls /opt/zeek/
 
 # Getting Started with Zeek
 
-Now to Getting Started with Zeek go to [Getting Started.MD](https://github.com/cyberseef/Zeek_Installation_Guide/blob/09def43263f43919d1945e42f2068dc89d202eed/Getting%20Started.MD)
+Now to Getting Started with Zeek go to [Getting Started.MD](https://github.com/cyberseef/Zeek_Installation_Guide/blob/021df22ee0a5eb6700e037b19fdc2132d14f37f7/Getting%20Started.MD)
